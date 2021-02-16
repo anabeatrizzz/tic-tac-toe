@@ -1,0 +1,10 @@
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe.config
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\bin\Debug\jogodavelha.pdb
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csprojAssemblyReference.cache
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\obj\Debug\jogodavelha.jogodavelha.resources
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Properties.Resources.resources
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.GenerateResource.cache
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\obj\Debug\jogodavelha.exe
+C:\Users\aluno2\Source\Repos\jogodavelha\jogodavelha\obj\Debug\jogodavelha.pdb
